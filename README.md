@@ -31,10 +31,10 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp
 </p>
    
-<h3 align="center">Portfolio</h3>
+<!-- <h3 align="center">Portfolio</h3>
 <p align=center>
   <a href = "https://adorable-aspen-d23.notion.site/c56e07ab3848423b92d5a7e1455f2b3c" style="color: black">🌱 계속 성장중 🌱</a>
-</p>
+</p> -->
   
    
 &nbsp;   
@@ -80,6 +80,6 @@
   <a href="mailto:happyjw3910@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p> -->
+</p> 
